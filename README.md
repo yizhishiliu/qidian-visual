@@ -1,4 +1,7 @@
 # qidian-visual
+
+@author: [shiliu](https://github.com/yizhishiliu)
+
 基于 python3.9 + Django + requests + echarts，爬取起点中文各类榜单，保存至MySQL，并在网页上进行相应的可视化分析。
 
 ![@$%00SJGZF)%T%T$BM0UW1I](https://github.com/Mingdaj/qidian-visual/assets/130920375/133aba19-4747-4eb3-bcd5-0e2aa48fcf80)
@@ -49,7 +52,7 @@ Python3.9 + Django + ...
 
 有偿分享，非诚勿扰！
 
-QQ：2790810983
+[点我+V](https://github.com/yizhishiliu/yizhishiliu/blob/main/images/wechat.jpg)
 
-助理QQ：3539048933
+**20240829项目仍可正常运行**
 
